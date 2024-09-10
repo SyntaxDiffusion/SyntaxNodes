@@ -1,1 +1,1 @@
-Download into Comfyuu custom nodes folder
+Download into Comfyui custom nodes folder.   hope it works.
